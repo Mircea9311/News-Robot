@@ -9,3 +9,5 @@ The robot is made using Selenium and pure Python, Pandas and a few other librari
 
 The output of the robot will be stored in an "output" folder in which all the news images will be stored alongside the "output.xlsx" file with data about the news.
 A file with logs will also be created inside the project's folder.
+
+/// The .robot file can be ignored, I wanted to create the robot in robotframework at first, the .robot file is missing a dependency therefore might not even be working, further changes will be made in case that creates any issues  ///
